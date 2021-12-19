@@ -7,4 +7,6 @@ export function triggerIframeRedraw() {
   const iframe = this as HTMLIFrameElement
 
   iframe.style.transform = 'translateZ(0)'
+  iframe.style.width = '100%'
+  iframe.style.height = '100%'
 }

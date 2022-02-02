@@ -1,3 +1,10 @@
+# [@typeform/embed-v1.28.0](https://github.com/Typeform/embed/compare/@typeform/embed-v1.27.1...@typeform/embed-v1.28.0) (2022-02-02)
+
+
+### Features
+
+* **DIST-1443:** Update package dependencies on release ([313f768](https://github.com/Typeform/embed/commit/313f768208b1f38e7a81aeda7be13f0c6f0db9a8))
+
 # [@typeform/embed-v1.27.1](https://github.com/Typeform/embed/compare/@typeform/embed-v1.27.0...@typeform/embed-v1.27.1) (2022-01-27)
 
 
